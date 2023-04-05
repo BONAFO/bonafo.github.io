@@ -2,10 +2,9 @@ import { BrowserRouter, Route, Routes, HashRouter } from "react-router-dom";
 export default function App() {
   return (
     <div>
-      <BrowserRouter>
-        <HashRouter basename="/">
+      <HashRouter basename="/">
           <Routes>
-            <Route path="/" element={<h1>GHP5</h1>} />
+            <Route path="/" element={<h1>FJSDHNAOUSHSDOASHJNDAOIS</h1>} />
             <Route
               path="/perro"
               element={
@@ -13,8 +12,7 @@ export default function App() {
               }
             />
           </Routes>
-        </HashRouter>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
