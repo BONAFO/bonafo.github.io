@@ -4,7 +4,7 @@ export default function App() {
     <div>
       <HashRouter basename="/">
           <Routes>
-            <Route path="/" element={<h1>FJSDHNAOUSHSDOASHJNDAOIS</h1>} />
+            <Route path="/" element={<h1>apscjoqjwe2|1</h1>} />
             <Route
               path="/perro"
               element={
